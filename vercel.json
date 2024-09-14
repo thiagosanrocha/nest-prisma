@@ -2,7 +2,7 @@
     "version": 2,
     "env": {
         "NODE_ENV": "production",
-        "PORT": 3000,
+        "PORT": "3000",
         "DATABASE_URL": "postgresql://teste_z5j8_user:iMDAUE687uK4PMJfMFOX0HUcg1qEt9r7@dpg-crj107ij1k6c73fiv4pg-a.oregon-postgres.render.com/teste_z5j8"
     },
     "builds": [
