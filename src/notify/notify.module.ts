@@ -1,4 +1,4 @@
-import { PrismaService } from 'src/prisma/prisma.service';
+import { PrismaService } from '../prisma/prisma.service';
 import { Module } from '@nestjs/common';
 import { NotifyService } from './notify.service';
 import { NotifyController } from './notify.controller';
